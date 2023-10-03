@@ -14,6 +14,7 @@ Aqui estão algumas das tecnologias com as quais estou familiarizada:
 
 - 💻 Linguagens de Programação: JavaScript
 - ⚙️ Tecnologias e Ferramentas: Node.js, Express.js
+- 📝 Ambiente de Desenvolvimento: Visual Studio Code
 
 ## Projetos
 
