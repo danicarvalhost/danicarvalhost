@@ -4,9 +4,9 @@ Meu nome é Daniela, e estou empolgada em compartilhar um pouco sobre mim e as t
 
 ## Sobre Mim
 
-- 👨‍💻 Desenvolvedora de Software Backend apaixonada por resolver problemas e criar soluções.
-- 🌍 Moro em São Paulo, SP - Brasil.
 - 🎓 Atualmente, estou estudando Desenvolvimento de Sofware com foco em Backend na Cubos Academy.
+- 🌍 Moro em São Paulo, SP - Brasil.
+
 
 ## Tecnologias que Conheço
 
