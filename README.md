@@ -24,7 +24,7 @@ Aqui estão algumas das tecnologias com as quais estou familiarizada:
 ## Contato
 
 - 📫 Você pode me contatar através do meu email: dccarvalhodaniela@gmail.com
-- 🔗 Conecte-se comigo no LinkedIn: [[Seu perfil do LinkedIn]](https://www.linkedin.com/in/daniela-carvalho-dos-santos/)
+- 🔗 Conecte-se comigo no LinkedIn: [[LinkedIn]](https://www.linkedin.com/in/daniela-carvalho-dos-santos/)
 
 Fique à vontade para explorar meus repositórios e projetos. Se você tiver alguma pergunta ou quiser colaborar em algum projeto, não hesite em entrar em contato!
 
