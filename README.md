@@ -13,7 +13,7 @@ Meu nome é Daniela, e estou empolgada em compartilhar um pouco sobre mim e as t
 Aqui estão algumas das tecnologias com as quais estou familiarizada:
 
 - 💻 Linguagens de Programação: JavaScript, SQL
-- ⚙️ Tecnologias e Ferramentas: Node.js, Express.js, PostgreSQL
+- ⚙️ Tecnologias e Ferramentas: Node.js, Express.js, PostgreSQL, Insomnia
 - 📝 Ambiente de Desenvolvimento: Visual Studio Code
 
 ## Projetos
